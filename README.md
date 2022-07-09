@@ -1,0 +1,2 @@
+# KusamaHub
+Whitepaper of KusamaHub
