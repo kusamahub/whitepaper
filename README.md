@@ -1,4 +1,4 @@
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/logo/kh_logo.png) <br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/logo/kh_logo.png) <br />
 <br />
 
 KusamaHub is a web app for Kusama network NFTs projects with analytics tools.
@@ -48,37 +48,37 @@ News channel to instant news delivery.
 Our goal is give community a best analytics and full information about Kusama NFT projects and
 Creators and let them interact inside the platform.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/News.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/News.png)<br /><br />
 
 ## 2. Analytics
 We get information about all transactions with NFTs in every project to give user detailed information about Sales, Holders and more. Many type of information have graphs among with detailed analysis. Based on this information we provide users with statistic about top sales, top creators, top projects and more on main page.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Analytics.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Analytics.png)<br /><br />
 
 ## 3. Users Ratings
 All users can connect personal Kusama wallet to submit a rating to all projects and creators. Simple system Like / Dislike which shows users confidence to project or creator.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Ratings.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Ratings.png)<br /><br />
 
 ## 4. Editors Ratings
 This is special type of raiting, which gives to all projects and creators by KusamaHub Editors. It’s can’t be edited by users and shows actually trust-meter for project or creator based on different categories: Project have active sales, active community, social media, verified by owner on KusamaHub and more. Like Users Ratings this info helps users get a right decision about a project.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/EditorsRatings.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/EditorsRatings.png)<br /><br />
 
 ## 5. Users Reviews and Comments
 All users can leave comment (aka review) about NFT project or creator. Reviews system devided on three tabs with special flairs: User have NFT, User sold NFT and User don’t have NFT. If user have NFT from collection which he comment, he’s review gets special tag, which give more honest grade and confidence to review. Also, we have hidden filters to reduce spam attack in comments.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Comments.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Comments.png)<br /><br />
 
 ## 6. Verifying Process
 Every creator can verify his own collection or profile via our special form. Verifyng gives users more info and gives transparency about Creator or NFT project. KusamaHub verifying affects to Editors Raitings. Verified projects can be shown in Trending block on main page. Verified Creators can edit their profiles. Only verified projects can display upcoming events in Calendar.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Verify.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Verify.png)<br /><br />
 
 ## 7. Calendar
 We collect and provide users information about NFT announces, airdrops, mints and more. On main page KusamaHub have NFT Calendar with all projects upcoming events. User can select Day, Month, check info about event and create notification. Every Project and Creator Pages have Calendar card with they upcoming events.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Calendar.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Calendar.png)<br /><br />
 
 # Design
 
@@ -87,12 +87,12 @@ We are trying to build simple, user-friendly, available for all web application.
 ## 1. Cards
 All information on our side delivers in Cards. Cards have different settings, stylings and functions. Cards have divided on categories which helps to see similar type of information in one place. For example, Ratings and Reviews shows together, so user immediately see useful information. Some cards have visual settings, they can be reordered or hidden. Visual settings displays only for each users and stores in user account.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Cards.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Cards.png)<br /><br />
 
 ## 2. Project Card and Project Page
 KusamaHub generates page for all NFT projects, which stores in the Blockchain. When the Project Pages are generated, we collect information and provide Analytics, Ratings, NFTs in project, Events and more. If a project has social media, we automatically add it to the Project Page to deliver the last news into the Project Card. If some information are incorrect or incomplete, the Creator can simply verify his ownership and edit the information, highlight NFTs and reorder links. Project Card are equally shown all over KusamaHub app and can be shared on Social media.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/ProjectCard.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/ProjectCard.png)<br /><br />
 
 ## 3. Creator Card and Creator Page
 Like Projects, we generate pages for all Creators. It has same design like Project
@@ -102,17 +102,17 @@ highlights and etc. Every Creator can verify his profile which gives more trust 
 Creator have Creator Card, which can be shared in
 Social Media.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/CreatorCard.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/CreatorCard.png)<br /><br />
 
 ## 4. Themes
 KusamaHub support Light and Dark theme, which automatically switch according to devices settings. Users can switch theme manually.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/DarkMode.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/DarkMode.png)<br /><br />
 
 ## 5. Mobile-first
 We building KusamaHub as Mobile-First, so it’s looks perfect on all Screen sizes and Devices.
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Mobile.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/Mobile.png)<br /><br />
 
 ## 6. PWA
 KusamaHub can be added as application on Home Screen.<br />
@@ -121,7 +121,7 @@ Learn more about PWA: <br />
 https://web.dev/progressive-web-apps/ <br />
 https://www.w3.org/TR/appmanifest/ <br />
 
-![](https://github.com/KusamaHub/KusamaHub/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/PWA.png)<br /><br />
+![](https://github.com/kusamahubteam/kusamahubteam/blob/9b26c430f2c8b59f4e84012a4288839b17a25749/images/readme/PWA.png)<br /><br />
 
 ## 7. Accessibility
 We are trying to make our app available for all, so KusamaHub provide Accessibility support. We have
